@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
+
 I could improve app functionality by adding a swipe feature to go from one collection view cell to another
 
 ## Video Walkthrough
