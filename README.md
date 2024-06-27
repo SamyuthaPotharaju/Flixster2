@@ -1,7 +1,6 @@
 # Flixster 2
-Flixster with added networking capabilites
 
-Flixster2 introduces networking to the Flixster Movie browsing app 
+Flixster2 introduces networking capabilities to the Flixster Movie browsing app 
 
 
 ## Features
