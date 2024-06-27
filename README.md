@@ -10,7 +10,7 @@ Flixster2 introduces networking capabilities to the Flixster Movie browsing app
 - Uses a tab bar controller to switch between collection view and table view screens
  
 Future improvements:
-- [x] Adding swipe functionality to go from one collection view cell to another
+- Adding swipe functionality to go from one collection view cell to another
 
 ## Video Walkthrough
 
